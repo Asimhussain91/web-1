@@ -1,0 +1,11 @@
+void main(){ int classheld=16;
+            int classattended=10;
+            double attendancepercentage=(classattended/classheld)*100;
+            if
+              (attendancepercentage>=75)
+            {print("student is allow to sit in exam");}
+            else
+            {print("student is not allow to sit in exam");}}
+
+result
+student is not allow to sit in exam

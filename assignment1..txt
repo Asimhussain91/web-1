@@ -1,0 +1,9 @@
+void main(){int length=8;
+           int breadth=8;
+           if (length==breadth)
+           {print ("this value represented square");}
+           else 
+           { print("this value represented regtangles");} }
+
+result
+this value represented square

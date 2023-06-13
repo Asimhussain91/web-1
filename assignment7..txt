@@ -1,0 +1,30 @@
+void main(){var consumer_name=("asif khan");
+           int consumer_id=786;
+            int unit_consumed=500;
+            print("**********electricity bill**********");
+            print("");
+            print("consumer_name=$consumer_name");
+            print("consumer_id=$consumer_id");
+            print("");
+            print("bill amount");
+            if(unit_consumed>=10&&unit_consumed<=100)
+              print(unit_consumed*1.20);
+            else if(unit_consumed>=100&&unit_consumed<=200)
+              print(unit_consumed*2.00);
+            else if(unit_consumed>=200&&unit_consumed<=300)
+              print(unit_consumed*2.50);
+            else if(unit_consumed>=300&&unit_consumed<=400)
+              print(unit_consumed*3.00);
+            else if(unit_consumed>=400&&unit_consumed<=500)
+              print(unit_consumed*3.50);
+           }
+
+
+result
+**********electricity bill**********
+
+consumer_name=asif khan
+consumer_id=786
+
+bill amount
+1750

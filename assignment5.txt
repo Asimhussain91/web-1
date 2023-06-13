@@ -1,0 +1,10 @@
+void main(){int temp=40;
+            if(temp<=0){
+              print("freezing weather");
+            } else if(temp>=0&&temp<=10){print("cool weather$temp'c");}
+            else if(temp>=10&&temp<=20){print("normal weather$temp'c");}
+            else if(temp>=20&&temp<=30){print("hot weather$temp'c");}
+            else{print("very hot wheather$temp'c");}}
+
+result
+very hot wheather40'c

@@ -1,0 +1,11 @@
+void main(){int num=20
+  ;
+           if(num%5==0)
+           {print("$num this is even num");}
+            else if(num%7==0)
+            {print("$num this is odd num");}
+            else{print ("this num is not divisible by both num");}}
+
+result
+20 this is even num
+

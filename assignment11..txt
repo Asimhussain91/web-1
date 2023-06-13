@@ -1,0 +1,9 @@
+import"dart:math";
+void main(){
+  int square=81;
+  double result=sqrt(square);
+  print("the value of $square is $result");}
+
+result
+
+the value of 81 is 9

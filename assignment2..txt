@@ -1,0 +1,16 @@
+void main(){int age1=52;
+           int age2=26;
+           if (age1>age2)
+           {print("age1 is an oldest person$age1");
+          print ("age2 is a youngest person$age2"); }
+           else if(age1<age2)
+           {print ("age1 is an oldest person$age1");
+           print("age2 is a youngest person$age2");}
+            else
+             ("both person are same age");}
+
+
+result
+
+     age1 is an oldest person52
+age2 is a youngest person26
